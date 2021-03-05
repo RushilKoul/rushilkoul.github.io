@@ -26,6 +26,8 @@ const prompts = [
   [""],
   ["haha","ha","lol","hehe","funny","joke"]
   ["Mello!", "Mello", "Melloturkey", "Mellobacon"]
+  ["Regina", "Hey regina"]
+  ["karen"]
 ]
 
 // Possible responses, in corresponding order
@@ -60,6 +62,8 @@ const replies = [
   ["Please say something :("],
   ["Haha!","Good one!"]
   ["Haha yes i am mello and i like sugar", "mhm thats me"]
+  ["I AM REGINA"]
+  ["im not karen smh xd"]
 ]
 
 // Random for any other user input
