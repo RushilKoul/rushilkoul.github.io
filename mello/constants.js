@@ -27,6 +27,7 @@ const prompts = [
   ["haha","ha","lol","hehe","funny","joke"],
   ["Mello!", "Mello", "Melloturkey", "Mellobacon"],
   ["karen"]
+
 ]
 
 // Possible responses, in corresponding order
