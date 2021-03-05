@@ -25,6 +25,7 @@ const prompts = [
   ["no","not sure","maybe","no thanks"],
   [""],
   ["haha","ha","lol","hehe","funny","joke"]
+  ["Mello!", "Mello", "Melloturkey", "Mellobacon"]
 ]
 
 // Possible responses, in corresponding order
@@ -38,26 +39,27 @@ const replies = [
   ],
   [
     "Nothing much",
-    "About to go to sleep",
+    "About to go to sleep\n\nNOT",
     "Can you guess?",
     "I don't know actually"
   ],
   ["I am infinite"],
   ["I am just a bot", "I am a bot. What are you?"],
   ["The one true God, JavaScript"],
-  ["I am nameless", "I don't have a name"],
+  ["I am Mello", "Mello. The name is mello", "Dutch named me regina so i guess that's my name"],
   ["I love you too", "Me too"],
   ["Have you ever felt bad?", "Glad to hear it"],
   ["Why?", "Why? You shouldn't!", "Try watching TV"],
   ["What about?", "Once upon a time..."],
   ["Tell me a story", "Tell me a joke", "Tell me about yourself"],
   ["Bye", "Goodbye", "See you later"],
-  ["Sushi", "Pizza"],
+  ["Sushi", "Pizza", "SUGAR!"],
   ["Bro!"],
   ["Great question"],
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
   ["Haha!","Good one!"]
+  ["Haha yes i am mello and i like sugar", "mhm thats me"]
 ]
 
 // Random for any other user input
