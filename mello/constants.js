@@ -28,7 +28,10 @@ const prompts = [
   ["Mello!", "Mello", "Melloturkey", "Mellobacon"],
   ["karen", "hey karen", "karen!"],
   ["sleep", "get some sleep", "sleep."],
-  ["the quick brown fox jumps over the lazy dog"]
+  ["the quick brown fox jumps over the lazy dog"],
+  ["should I kill myself", "I want to die", 
+   "should I commit suicide", "should I kill my self",
+   "suicide"]
 
 ]
 
@@ -66,7 +69,8 @@ const replies = [
   ["Haha yes i am mello and i like sugar", "mhm thats me"],
   ["im not karen smh xd"],
   ["no i wont sleep", "i edont like sleeping tho", "frick sleep tbh"],
-  ["it do be jumping"]
+  ["it do be jumping"],
+  ["please do not. if you are struggling with depression, contact a therapist."]
 ]
 
 // Random for any other user input
