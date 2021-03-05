@@ -27,7 +27,8 @@ const prompts = [
   ["haha","ha","lol","hehe","funny","joke"],
   ["Mello!", "Mello", "Melloturkey", "Mellobacon"],
   ["karen", "hey karen", "karen!"],
-  ["sleep", "get some sleep", "sleep."]
+  ["sleep", "get some sleep", "sleep."],
+  ["the quick brown fox jumps over the lazy dog"]
 
 ]
 
@@ -64,7 +65,8 @@ const replies = [
   ["Haha!","Good one!"],
   ["Haha yes i am mello and i like sugar", "mhm thats me"],
   ["im not karen smh xd"],
-  ["no i wont sleep", "i edont like sleeping tho", "frick sleep tbh"]
+  ["no i wont sleep", "i edont like sleeping tho", "frick sleep tbh"],
+  ["it do be jumping"]
 ]
 
 // Random for any other user input
