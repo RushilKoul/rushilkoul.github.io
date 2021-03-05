@@ -1,3 +1,4 @@
+const fs = require('fs') 
 document.addEventListener("DOMContentLoaded", () => {
   const inputField = document.getElementById("input");
   inputField.addEventListener("keydown", (e) => {
@@ -17,8 +18,7 @@ function output(input) {
   // Remove digits - not sure if this is best
   // But solves problem of entering something like 'hi1'
   //save input for training
-   
-const fs = require('fs') 
+  
 
 let data = input
 
