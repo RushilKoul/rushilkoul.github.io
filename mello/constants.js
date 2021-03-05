@@ -13,7 +13,7 @@ const prompts = [
     "what is your name",
     "what call yourself"
   ],
-  ["i love you"],
+  ["i love you", "i like you"],
   ["happy", "good", "fun", "wonderful", "fantastic", "cool"],
   ["bad", "bored", "tired"],
   ["help me", "tell me story", "tell me joke"],
