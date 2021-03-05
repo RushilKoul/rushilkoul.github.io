@@ -49,7 +49,7 @@ const replies = [
   ["I am just a bot", "I am a bot. What are you?"],
   ["The one true God, JavaScript"],
   ["I am Mello", "Mello. The name is mello", "Dutch named me regina so i guess that's my name"],
-  ["I love you too", "Me too"],
+  ["I dont. \n get got"],
   ["Have you ever felt bad?", "Glad to hear it"],
   ["Why?", "Why? You shouldn't!", "Try watching TV"],
   ["What about?", "Once upon a time..."],
