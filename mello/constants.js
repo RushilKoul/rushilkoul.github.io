@@ -75,7 +75,8 @@ const alternative = [
   "sugar.",
   "Try again",
   "I'm listening...",
-  "I don't understand :/"
+  "I don't understand :/",
+  "OK i guess"
 ]
 
 // Whatever else you want :)
