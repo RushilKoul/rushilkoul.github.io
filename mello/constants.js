@@ -24,9 +24,8 @@ const prompts = [
   ["what", "why", "how", "where", "when"],
   ["no","not sure","maybe","no thanks"],
   [""],
-  ["haha","ha","lol","hehe","funny","joke"]
-  ["Mello!", "Mello", "Melloturkey", "Mellobacon"]
-  ["Regina", "Hey regina"]
+  ["haha","ha","lol","hehe","funny","joke"],
+  ["Mello!", "Mello", "Melloturkey", "Mellobacon"],
   ["karen"]
 ]
 
@@ -60,9 +59,8 @@ const replies = [
   ["Great question"],
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
-  ["Haha!","Good one!"]
-  ["Haha yes i am mello and i like sugar", "mhm thats me"]
-  ["I AM REGINA"]
+  ["Haha!","Good one!"],
+  ["Haha yes i am mello and i like sugar", "mhm thats me"],
   ["im not karen smh xd"]
 ]
 
