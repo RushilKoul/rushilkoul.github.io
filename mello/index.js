@@ -1,4 +1,4 @@
-const fs = require('fs') 
+
 document.addEventListener("DOMContentLoaded", () => {
   const inputField = document.getElementById("input");
   inputField.addEventListener("keydown", (e) => {
@@ -17,14 +17,8 @@ function output(input) {
   // Trim trailing whitespce
   // Remove digits - not sure if this is best
   // But solves problem of entering something like 'hi1'
-  //save input for training
-  
+  // save input for training
 
-let data = input
-
-fs.writeFile('Output.txt', data, (err) => { 
-    if (err) throw err; 
-})
   let text = input.toLowerCase().replace(/[^\w\s]/gi, "").replace(/[\d]/gi, "").trim();
   text = text
     .replace(/ a /g, " ")   // 'tell me a story' -> 'tell me story'
