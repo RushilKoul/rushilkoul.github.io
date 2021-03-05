@@ -74,6 +74,7 @@ input {
 
 .avatar {
 	height: 25px;
+	border-radius:50%;
 }
 
 .response {
