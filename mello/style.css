@@ -51,7 +51,7 @@ input {
 	border-radius: 10px; 
 }
 
-#sendButton {
+button {
 	
 	border: 0;
 	padding: 15px;
