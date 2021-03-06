@@ -68,7 +68,7 @@ const replies = [
   ["Haha!","Good one!"],
   ["Haha yes i am mello and i like sugar", "mhm thats me"],
   ["im not karen smh xd"],
-  ["no i wont sleep", "i edont like sleeping tho", "frick sleep tbh"],
+  ["no i wont sleep", "i dont like sleeping tho", "frick sleep tbh"],
   ["it do be jumping"],
   ["please do not. if you are struggling with depression, contact a therapist."]
 ]
