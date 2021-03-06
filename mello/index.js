@@ -10,6 +10,13 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 }); 
 
+function send() {
+  const inputField = document.getElementById("input");
+  let input = inputField.value;
+  inputField.value = "";
+  output(input)
+}
+
 function output(input) {
   let product;
 
