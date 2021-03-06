@@ -78,7 +78,6 @@ const replies = [
 const alternative = [
   "Same",
   "Go on...",
-  "sugar.",
   "Try again",
   "I'm listening...",
   "I don't understand :/",
