@@ -51,6 +51,15 @@ input {
 	border-radius: 10px; 
 }
 
+#sendButton {
+	
+	border: 0;
+	padding: 15px;
+	margin-left: auto;
+	border-radius: 10px;
+	
+}
+
 .messages {
 	display: flex;
 	flex-direction: column;
