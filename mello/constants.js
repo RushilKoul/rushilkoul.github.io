@@ -71,10 +71,11 @@ const replies = [
 
 const alternative = [
   "Same",
-  "apples!"
-  "sugar"
-  "kladdkaka is the best!"
-  "mhm..."
+  "apples!",
+  "sugar",
+  "kladdkaka is the best!",
+  "mhm...",
+  "ICE CREAM!",
   "Go on...",
   "Try again",
   "I'm listening...",
