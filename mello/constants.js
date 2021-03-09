@@ -1,6 +1,6 @@
 // Options the user could type in
 const prompts = [
-  ["hi", "hey", "hello", "good morning", "good afternoon"],
+  ["hi", "hey", "hello", "good morning", "good afternoon", "hey mello", "how you be", "hello mello"],
   ["how are you", "how is life", "how are things"],
   ["what are you doing", "what is going on", "what is up"],
   ["how old are you"],
@@ -19,7 +19,7 @@ const prompts = [
   ["help me", "tell me story", "tell me joke"],
   ["ah", "yes", "ok", "okay", "nice"],
   ["bye", "good bye", "goodbye", "see you later"],
-  ["what should i eat today"],
+  ["what should i eat today", "what do you like", "what do you like to eat"],
   ["bro"],
   ["what", "why", "how", "where", "when"],
   ["no","not sure","maybe","no thanks"],
@@ -29,14 +29,9 @@ const prompts = [
   ["karen", "hey karen", "karen!"],
   ["sleep", "get some sleep", "sleep."],
   ["the quick brown fox jumps over the lazy dog"],
-  ["should I kill myself", "I want to die", 
-   "should I commit suicide", "should I kill my self",
-   "suicide"]
-
 ]
 
 // Possible responses, in corresponding order
-
 const replies = [
   ["Hello!", "Hi!", "Hey!", "Hi there!","Howdy"],
   [
@@ -50,9 +45,9 @@ const replies = [
     "Can you guess?",
     "I don't know actually"
   ],
-  ["I am infinite"],
+  ["I am infinite years old!", "im 19"],
   ["I am just a bot", "I am a bot. What are you?"],
-  ["The one true God, JavaScript"],
+  ["RKraft!", "the one true god, JAVASCRIPT! jk its php obviously"],
   ["I am Mello", "Mello. The name is mello", "Dutch named me regina so i guess that's my name"],
   ["I dont. \n get got"],
   ["Have you ever felt bad?", "Glad to hear it"],
@@ -70,13 +65,16 @@ const replies = [
   ["im not karen smh xd"],
   ["no i wont sleep", "i dont like sleeping tho", "frick sleep tbh"],
   ["it do be jumping"],
-  ["please do not. if you are struggling with depression, contact a therapist."]
 ]
 
 // Random for any other user input
 
 const alternative = [
   "Same",
+  "apples!"
+  "sugar"
+  "kladdkaka is the best!"
+  "mhm..."
   "Go on...",
   "Try again",
   "I'm listening...",
